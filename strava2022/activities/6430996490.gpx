@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX iPhone" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2021-12-26T20:05:56Z</time>
+ </metadata>
+ <trk>
+  <name>TFW you forget to start the clock</name>
+  <type>9</type>
+  <trkseg>
+   <trkpt lat="38.7562020" lon="-77.3000490">
+    <ele>97.1</ele>
+    <time>2021-12-26T20:05:56Z</time>
+   </trkpt>
+   <trkpt lat="38.7562120" lon="-77.3000250">
+    <ele>97.1</ele>
+    <time>2021-12-26T20:05:57Z</time>
+   </trkpt>
+   <trkpt lat="38.7562240" lon="-77.2999800">
+    <ele>97.1</ele>
+    <time>2021-12-26T20:05:58Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
